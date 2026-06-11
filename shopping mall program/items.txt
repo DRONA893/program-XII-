@@ -1,0 +1,249 @@
+rice,60
+basmati rice,120
+brown rice,90
+wheat flour,55
+maida,50
+rava,45
+poha,40
+vermicelli,35
+sugar,50
+brown sugar,65
+jaggery,55
+salt,20
+rock salt,30
+tea powder,180
+green tea,220
+coffee powder,220
+milk,30
+curd,40
+buttermilk,25
+paneer,90
+butter,55
+cheese,120
+cream,70
+eggs,7
+bread,40
+brown bread,50
+garlic bread,80
+jam,85
+honey,180
+peanut butter,180
+corn flakes,140
+muesli,180
+oats,120
+chocos,160
+noodles,30
+pasta,70
+macaroni,80
+spaghetti,90
+tomato ketchup,110
+mayonnaise,150
+soy sauce,90
+vinegar,60
+chilli sauce,90
+pickle,95
+coconut oil,240
+sunflower oil,190
+mustard oil,210
+olive oil,450
+ghee,320
+turmeric powder,35
+chilli powder,45
+coriander powder,40
+pepper powder,80
+garam masala,60
+cumin seeds,30
+mustard seeds,25
+fenugreek seeds,20
+cardamom,120
+cloves,90
+cinnamon,80
+bay leaf,25
+asafoetida,45
+ginger garlic paste,65
+toor dal,140
+masoor dal,120
+moong dal,110
+urad dal,130
+chana dal,100
+rajma,130
+chickpeas,110
+green gram,110
+black gram,130
+peas,70
+soy chunks,75
+peanuts,80
+cashew nuts,450
+almonds,500
+pistachios,650
+raisins,220
+dates,180
+walnuts,550
+figs,400
+banana,40
+apple,180
+orange,120
+mango,150
+grapes,100
+watermelon,60
+pineapple,80
+papaya,60
+guava,70
+pear,140
+kiwi,40
+dragon fruit,120
+pomegranate,180
+strawberry,180
+blueberry,250
+lemon,5
+coconut,40
+potato,35
+onion,40
+tomato,30
+carrot,50
+beetroot,45
+radish,30
+cucumber,30
+cabbage,35
+cauliflower,50
+broccoli,90
+beans,60
+peas vegetable,50
+capsicum,70
+green chilli,20
+brinjal,40
+ladies finger,45
+pumpkin,40
+bitter gourd,45
+snake gourd,40
+ash gourd,35
+drumstick,30
+spinach,25
+mint leaves,15
+coriander leaves,15
+curry leaves,10
+mushroom,80
+sweet potato,50
+ginger,30
+garlic,40
+soap,35
+bath soap,40
+face wash,140
+face cream,180
+body lotion,180
+shampoo,120
+conditioner,140
+hair oil,110
+hair gel,120
+toothpaste,95
+toothbrush,30
+mouthwash,130
+dental floss,80
+shaving cream,110
+razor,60
+perfume,350
+deodorant,220
+lip balm,80
+nail cutter,50
+cotton roll,40
+sanitizer,70
+hand wash,80
+tissue paper,40
+wet wipes,120
+baby wipes,120
+baby powder,90
+baby soap,40
+baby shampoo,120
+diapers,450
+detergent powder,220
+detergent liquid,250
+fabric conditioner,180
+dish wash liquid,90
+dish wash bar,25
+floor cleaner,160
+toilet cleaner,140
+glass cleaner,130
+air freshener,180
+garbage bags,60
+mosquito repellent,110
+match box,5
+candles,20
+aluminium foil,120
+cling wrap,90
+zip lock bags,80
+water bottle,120
+lunch box,180
+mug,60
+bucket,220
+plastic chair,750
+broom,150
+mop,250
+dustbin,300
+notebook,40
+long notebook,60
+pen,10
+gel pen,15
+pencil,5
+eraser,5
+sharpener,10
+scale,15
+marker,30
+highlighter,40
+glue,25
+stapler,80
+staple pins,20
+file folder,40
+drawing book,70
+crayons,70
+colour pencils,120
+sketch pens,90
+calculator,250
+a4 paper pack,250
+battery aa,25
+battery aaa,20
+led bulb,120
+extension board,350
+mobile charger,300
+usb cable,150
+earphones,250
+headphones,500
+bluetooth speaker,1200
+pendrive,550
+memory card,700
+torch light,180
+wall clock,450
+umbrella,250
+steel plate,120
+steel glass,80
+steel spoon,25
+knife,80
+scissors,60
+frying pan,550
+pressure cooker,1800
+water jug,180
+bedsheet,650
+blanket,1200
+pillow cover,120
+towel,180
+bath towel,220
+mineral water,20
+soft drink,40
+fruit juice,50
+energy drink,110
+ice cream cup,35
+ice cream cone,50
+family ice cream pack,320
+chocolate,25
+biscuit,25
+cookies,70
+cake slice,90
+pastry,70
+brownie,60
+cupcake,40
+donut,50
+popcorn,40
+chips,20
+namkeen,30
+mixture,40
+murukku,35
+banana chips,50
